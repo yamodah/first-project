@@ -1,0 +1,32 @@
+body{
+    padding: 50px;
+    background: #cfb57d
+}
+header{
+    padding: 20px;
+    background-image: url("images/IMG_5250.jpeg");
+    border-radius: 15px 50px;}
+nav{
+    border-radius: 15px;
+    padding: 20px;
+    background: #b87d66
+}
+main{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    padding: 20px;
+    background: #b87d66
+
+}
+section{
+    padding: 20px;
+    background: #b87d66
+
+}
+div{
+    padding: 10px;
+}
+p{
+    color: #cecbc5;
+    padding: 20px;
+    background: #b87d66
+}
